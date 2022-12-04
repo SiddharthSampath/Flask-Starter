@@ -37,3 +37,8 @@ flask run
 ```
 
 It should hopefully run without any errors.
+
+### Postman Collection Link
+Import the link below to try this out on Postman.
+
+https://www.getpostman.com/collections/b424281fcd477fd80b86
